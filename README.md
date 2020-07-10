@@ -13,7 +13,7 @@ The application also implemented MVC design pattern to separate the logic concer
 
 
 ### Class Diagram
-![Class Diagram](./Class Diagram.png)
+![Class Diagram](./Class\ Diagram.png)
 
 ### How to Run the App:  
 1. From the command line, navigate to the directory containing App, then run one of the following commands
