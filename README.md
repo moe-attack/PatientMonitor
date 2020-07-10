@@ -1,7 +1,8 @@
 # README    
 
 This app simulates an monitor for medical professionals to monitor their patients' Cholesterol and Blood Pressure using API.
-The app is meant to demonstrate understanding towards Software Engineering and the key principles for Object Oriented Programming.
+The app is written in Python, and is meant to demonstrate understanding towards Software Engineering and the key principles for Object Oriented Programming.
+
 The following principle were considered and carried out in the implementation:
 - Open-Close Principle
 - Single-Responsibility Principle
@@ -11,9 +12,6 @@ The following principle were considered and carried out in the implementation:
 
 The application also implemented MVC design pattern to separate the logic concerns.
 
-
-### Class Diagram
-![Class Diagram](./Class\ Diagram.png)
 
 ### How to Run the App:  
 1. From the command line, navigate to the directory containing App, then run one of the following commands
