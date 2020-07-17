@@ -1,7 +1,5 @@
 # README    
 
-![screenshot](./Capture.JPG)
-
 This app simulates an monitor for medical professionals to monitor their patients' Cholesterol and Blood Pressure using API.
 The app is written in Python, and is meant to demonstrate understanding towards Software Engineering and the key principles for Object Oriented Programming.
 The app was created as a year 3 University project
@@ -32,3 +30,5 @@ python -m App.Controller.ViewController
 6. Click the same button to unfollow that patient  
 7. The app updates every 20 seconds by default. You can change this by setting N to a different integer value in the top left corner under the practitioner login box.  
 8. The app has a default X of 140 and default Y of 90
+
+![screenshot](./Capture.JPG)
