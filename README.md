@@ -31,4 +31,5 @@ python -m App.Controller.ViewController
 7. The app updates every 20 seconds by default. You can change this by setting N to a different integer value in the top left corner under the practitioner login box.  
 8. The app has a default X of 140 and default Y of 90
 
+### Screenshot
 ![screenshot](./Capture.JPG)
